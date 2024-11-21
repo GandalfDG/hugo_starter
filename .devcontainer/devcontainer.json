@@ -12,7 +12,7 @@
 			]
 		}
 	},
-	"postAttachCommand": "git submodule init && git submodule update"
+	"postAttachCommand": "git submodule init && git submodule update && cd my-site"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
