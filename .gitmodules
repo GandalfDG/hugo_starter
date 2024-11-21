@@ -1,0 +1,3 @@
+[submodule "my-site/themes/hugo-bearcub"]
+	path = my-site/themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
